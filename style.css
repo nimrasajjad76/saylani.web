@@ -1,3 +1,8 @@
+@media only screen and (max-width:600px)
+    {
+
+
+
 .zero {
     background-color: blue;
     width: 100%;
@@ -208,3 +213,5 @@ h1{
 .btn btn-light dropdown-toggle{
     border-radius: 30px;
 }
+        }
+        
